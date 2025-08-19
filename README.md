@@ -1,2 +1,2 @@
-# terraform-basics-deploying-ec2
-deploying an ec2 instance leveraging terraform
+# terraform + aws templates
+contains terraform and aws cli installations for the workspace to leverage and apply to the directory structure
